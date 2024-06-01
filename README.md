@@ -4,7 +4,7 @@ Welcome to the repository of my personal portfolio website! This is the place wh
 
 ## What's Inside?
 
-The portfolio is accessible on GitHub Pages at [this link]. It's crafted with **HTML**, **Tailwind CSS**, and **JavaScript**, ensuring a responsive and seamless experience across various devices.
+The portfolio is accessible on GitHub Pages at https://dshamshee.github.io/My-Portfolio/My-Portfolio/index.html. It's crafted with **HTML**, **Tailwind CSS**, and **JavaScript**, ensuring a responsive and seamless experience across various devices.
 
 ## Key Sections
 
